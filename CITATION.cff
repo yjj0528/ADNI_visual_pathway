@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite this repository."
+title: "ADNI Visual Pathway Tractography Pipeline"
+type: software
+
+authors:
+  - family-names: "Yang"
+    given-names: "Jin-Ju"
+
+version: 1.0.0
+license: Apache-2.0
+

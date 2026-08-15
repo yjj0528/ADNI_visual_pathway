@@ -1,0 +1,14 @@
+ADNI Visual Pathway Tractography Pipeline
+
+This repository includes a modified version of the DWI preprocessing
+utility script from TractSeg.
+
+Original project:
+https://github.com/MIC-DKFZ/TractSeg
+
+TractSeg is distributed under the Apache License, Version 2.0.
+
+Wasserthal J, Neher P, Maier-Hein KH.
+TractSeg - Fast and accurate white matter tract segmentation.
+NeuroImage. 2018;183:239-253.
+

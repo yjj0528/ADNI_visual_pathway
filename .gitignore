@@ -1,0 +1,25 @@
+# macOS
+.DS_Store
+
+# Neuroimaging data
+*.nii
+*.nii.gz
+*.mif
+*.tck
+*.bval
+*.bvec
+*.bvals
+*.bvecs
+
+# Tabular subject-level outputs
+*.csv
+*.xlsx
+*.xls
+
+# Temporary / backup files
+*~
+*.swp
+*.swo
+
+# Logs
+*.log
